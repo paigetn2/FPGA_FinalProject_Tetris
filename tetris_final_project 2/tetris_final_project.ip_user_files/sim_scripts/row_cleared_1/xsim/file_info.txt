@@ -1,0 +1,2 @@
+row_cleared.v,verilog,xil_defaultlib,../../../../tetris_final_project.gen/sources_1/ip/row_cleared_1/sim/row_cleared.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

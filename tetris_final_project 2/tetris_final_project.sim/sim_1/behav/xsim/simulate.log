@@ -1,0 +1,111 @@
+Time resolution is 1 ps
+=== Tetris Simulation Start ===
+[Init] type=0 row=0 col=3 rot=0
+
+[Test 1] Move Left x2
+  col=3
+  col=3
+
+[Test 2] Move Right
+  col=3
+
+[Test 3] Rotate
+  rot before=0
+  rot after=0
+
+[Test 4] Piece Falling (5 steps)
+  t=1140000 type=0 row=1 col=3 rot=0 score=0
+  t=1180000 type=0 row=2 col=3 rot=0 score=0
+  t=1220000 type=0 row=3 col=3 rot=0 score=0
+  row=3 col=3
+  t=1340000 type=0 row=4 col=3 rot=0 score=0
+  t=1380000 type=0 row=5 col=3 rot=0 score=0
+  t=1420000 type=0 row=6 col=3 rot=0 score=0
+  row=6 col=3
+  t=1540000 type=0 row=7 col=3 rot=0 score=0
+  t=1580000 type=0 row=8 col=3 rot=0 score=0
+  t=1620000 type=0 row=9 col=3 rot=0 score=0
+  row=9 col=3
+  t=1740000 type=0 row=10 col=3 rot=0 score=0
+  t=1780000 type=0 row=11 col=3 rot=0 score=0
+  t=1820000 type=0 row=12 col=3 rot=0 score=0
+  row=12 col=3
+  t=1940000 type=0 row=13 col=3 rot=0 score=0
+  t=1980000 type=0 row=14 col=3 rot=0 score=0
+  t=2020000 type=0 row=15 col=3 rot=0 score=0
+  row=15 col=3
+
+[Test 5] Drop to Bottom
+  t=2140000 type=0 row=16 col=3 rot=0 score=0
+  t=2180000 type=0 row=17 col=3 rot=0 score=0
+  t=2220000 type=0 row=18 col=3 rot=0 score=0
+  t=2300000 type=0 row=0 col=3 rot=0 score=0
+  t=2340000 type=0 row=1 col=3 rot=0 score=0
+  t=2380000 type=0 row=2 col=3 rot=0 score=0
+  t=2460000 type=0 row=3 col=3 rot=0 score=0
+  t=2500000 type=0 row=4 col=3 rot=0 score=0
+  t=2540000 type=0 row=5 col=3 rot=0 score=0
+  t=2620000 type=0 row=6 col=3 rot=0 score=0
+  t=2660000 type=0 row=7 col=3 rot=0 score=0
+  t=2700000 type=0 row=8 col=3 rot=0 score=0
+  t=2780000 type=0 row=9 col=3 rot=0 score=0
+  t=2820000 type=0 row=10 col=3 rot=0 score=0
+  t=2860000 type=0 row=11 col=3 rot=0 score=0
+  t=2940000 type=0 row=12 col=3 rot=0 score=0
+  t=2980000 type=0 row=13 col=3 rot=0 score=0
+  t=3020000 type=0 row=14 col=3 rot=0 score=0
+  t=3100000 type=0 row=15 col=3 rot=0 score=0
+  t=3140000 type=0 row=16 col=3 rot=0 score=0
+  t=3180000 type=0 row=17 col=3 rot=0 score=0
+  t=3260000 type=2 row=0 col=3 rot=0 score=0
+  t=3300000 type=2 row=1 col=3 rot=0 score=0
+  t=3340000 type=2 row=2 col=3 rot=0 score=0
+  t=3420000 type=2 row=3 col=3 rot=0 score=0
+  t=3460000 type=2 row=4 col=3 rot=0 score=0
+  t=3500000 type=2 row=5 col=3 rot=0 score=0
+  t=3580000 type=2 row=6 col=3 rot=0 score=0
+  t=3620000 type=2 row=7 col=3 rot=0 score=0
+  t=3660000 type=2 row=8 col=3 rot=0 score=0
+  t=3740000 type=2 row=9 col=3 rot=0 score=0
+  t=3780000 type=2 row=10 col=3 rot=0 score=0
+  t=3820000 type=2 row=11 col=3 rot=0 score=0
+  t=3900000 type=2 row=12 col=3 rot=0 score=0
+  t=3940000 type=2 row=13 col=3 rot=0 score=0
+  t=3980000 type=2 row=14 col=3 rot=0 score=0
+  t=4060000 type=2 row=15 col=3 rot=0 score=0
+  t=4100000 type=2 row=16 col=3 rot=0 score=0
+  t=4140000 type=6 row=0 col=3 rot=0 score=0
+  t=4220000 type=6 row=1 col=3 rot=0 score=0
+  t=4260000 type=6 row=2 col=3 rot=0 score=0
+  t=4300000 type=6 row=3 col=3 rot=0 score=0
+  t=4380000 type=6 row=4 col=3 rot=0 score=0
+  t=4420000 type=6 row=5 col=3 rot=0 score=0
+  t=4460000 type=6 row=6 col=3 rot=0 score=0
+  t=4540000 type=6 row=7 col=3 rot=0 score=0
+  t=4580000 type=6 row=8 col=3 rot=0 score=0
+  t=4620000 type=6 row=9 col=3 rot=0 score=0
+  t=4700000 type=6 row=10 col=3 rot=0 score=0
+  t=4740000 type=6 row=11 col=3 rot=0 score=0
+  t=4780000 type=6 row=12 col=3 rot=0 score=0
+  t=4860000 type=6 row=13 col=3 rot=0 score=0
+  t=4900000 type=6 row=14 col=3 rot=0 score=0
+  t=4940000 type=1 row=0 col=3 rot=0 score=0
+  t=5020000 type=1 row=1 col=3 rot=0 score=0
+  t=5060000 type=1 row=2 col=3 rot=0 score=0
+  t=5100000 type=1 row=3 col=3 rot=0 score=0
+  t=5180000 type=1 row=4 col=3 rot=0 score=0
+  t=5220000 type=1 row=5 col=3 rot=0 score=0
+  t=5260000 type=1 row=6 col=3 rot=0 score=0
+  row=6 score=0
+
+[Test 6] New Piece After Landing
+  type=1 row=6 col=3
+
+[Test 7] Restart
+  type=1 row=6 col=3 score=0
+
+[Board Check] Bottom row after restart:
+0 0 0 1 1 1 1 0 0 0 
+
+=== Simulation Complete ===
+$finish called at time : 6020 ns : File "C:/Users/halderp/tetris_final_project/tetris_final_project.srcs/sim_1/new/tetris_top_tb.sv" Line 106

@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../tetris_final_project.gen/sources_1/ip/rotate_1/sim/rotate.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
